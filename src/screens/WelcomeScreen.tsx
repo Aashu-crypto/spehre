@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
     paddingTop: 100,
   },
   logoContainer: {
-    marginBottom: 15s,
+    marginBottom: 15,
   },
   logoBackground: {
     width: 80,
